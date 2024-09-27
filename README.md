@@ -1,5 +1,5 @@
 # sauti_hub
-SautiHub is a news aggregation platform built using Flutter. It provides users with access to the latest breaking news, trending news, and a variety of categories ranging from business, technology, and politics to health and sports. The app aggregates articles from top news sources and presents them in an intuitive and visually engaging format. SautiHub allows users to stay informed on important topics, especially those relevant to African countries.
+Sauti Hub is dedicated to delivering relevant news that empowers youth across Africa to navigate significant socio-political issues. Our platform serves as a vital resource for the next generation of innovators, equipping them with the knowledge and insights necessary to drive meaningful change. Through curated content focused on important topics, Sauti Hub aims to inspire young individuals to engage actively in their communities and become advocates for socio-political progress. Join us in fostering a well-informed youth capable of shaping a brighter future for Africa!
 
 # Table of Contents
 ## Features

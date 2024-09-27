@@ -51,6 +51,13 @@ lib/
 │   └── slider_data.dart        # Fetches for breaking news
 └── main.dart                   # App entry point
 ```
+# Preview
+
+<img src="./images/Screenshot2.png" alt="screen2" width="400">
+<img src="./images/Screenshot1.png" alt="screen2" width="400">
+<img src="./images/Screenshot3.png" alt="screen2" width="400">
+<img src="./images/Screenshot4.png" alt="screen2" width="400">
+
 # Dependencies
 This project uses the following packages:
 
